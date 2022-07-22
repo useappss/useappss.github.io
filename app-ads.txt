@@ -1,6 +1,13 @@
 #applovin
 applovin.com, 0e5c368d7287367a93f767237e41df6b, DIRECT
 #unity
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+indexexchange.com, 194974, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 170071695, RESELLER, a670c89d4a324e47
+Se7en.es, 212499, RESELLER, 064bc410192443d8
+advlion.com, 5140, RESELLER
+Pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
+rhythmone.com, 170071695, RESELLER, a670c89d4a324e47
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 liftoff.io, 7f6945815e6, RESELLER
