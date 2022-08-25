@@ -112,6 +112,7 @@ pangleglobal.com, 85147, DIRECT
 #mintegral
 mintegral.com, 29350, DIRECT, 0aeed750c80d6423
 gitberry.com, 325100011, DIRECT
+engagebdr.com, 10181, RESELLER
 gitberry.com, 325100012, RESELLER
 pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
 contextweb.com, 562724, RESELLER, 89ff185a4c4e857c
@@ -437,16 +438,19 @@ pubmatic.com, 157962, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158853, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
 #A4G
-a4g.com,13839,DIRECT
+a4g.com,13839, DIRECT
 google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
-google.com, pub-1232265399417302, RESELLER
 indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
-pubmatic.com, 161218,  RESELLER, 5d62403b186f2ace
-media.net, 8CULY277R,  RESELLER
 pubmatic.com, 161218, RESELLER, 5d62403b186f2ace
 media.net, 8CULY277R, RESELLER
-sharethrough.com, Uc8GWHvM, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, Uc8GWHvM, DIRECT, d53b998a7bd4ecd2
+pubmatic.com, 156557, RESELLER
+pubmatic.com, 158723, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
+smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
+yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 onetag.com, 77cc0899358027b, RESELLER
 onetag.com, 77cc0899358027b-OB, RESELLER
 appnexus.com, 13099, RESELLER
