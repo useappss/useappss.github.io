@@ -2,6 +2,7 @@
 applovin.com, 0e5c368d7287367a93f767237e41df6b, DIRECT
 #unity
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
 indexexchange.com, 194974, RESELLER, 50b1c356f2c5c8fc
 video.unrulymedia.com, 170071695, RESELLER, a670c89d4a324e47
 Se7en.es, 212499, RESELLER, 064bc410192443d8
@@ -110,6 +111,12 @@ video.unrulymedia.com, 3383599585, RESELLER, a670c89d4a324e47
 pangleglobal.com, 85147, DIRECT
 #mintegral
 mintegral.com, 29350, DIRECT, 0aeed750c80d6423
+gitberry.com, 325100011, DIRECT
+gitberry.com, 325100012, RESELLER
+pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
+contextweb.com, 562724, RESELLER, 89ff185a4c4e857c
+improvedigital.com, 1361, RESELLER
+triplelift.com, 12552, RESELLER, 6c33edb13117fd86
 themediagrid.com, NG9STC, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 3383599585, RESELLER
 inmobi.com, d708160556074572b05ed3cf112bb66f, RESELLER, 83e75a7ae333ca9d
@@ -317,7 +324,6 @@ aol.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
-engagebdr.com, 10181, RESELLER
 smartyads.com, 100034, RESELLER, fd2bde0ff2e62c5d
 eskimi.com, eas-2020000005, RESELLER
 pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
