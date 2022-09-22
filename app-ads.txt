@@ -2,6 +2,16 @@
 applovin.com, 0e5c368d7287367a93f767237e41df6b, DIRECT
 #unity
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+appnexus.com, 11826, RESELLER
+appnexus.com, 13227, RESELLER
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162223, RESELLER, 5d62403b186f2ace
+spotx.tv, 149886, RESELLER, 7842df1d2fe2db34
+spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
+yandex.com, 95746987, RESELLER
 opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
 indexexchange.com, 194974, RESELLER, 50b1c356f2c5c8fc
 video.unrulymedia.com, 170071695, RESELLER, a670c89d4a324e47
